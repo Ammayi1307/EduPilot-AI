@@ -42,8 +42,7 @@ Our vision is to create a personalized digital learning companion that helps eve
 
 You can open and explore the project directly in Bolt:
 
-👉 **[Open EduPilot-AI in Bolt](https://bolt.new/~/sb1-dalu8mab)**
-
+👉 **[Open EduPilot-AI in Bolt](https://edupilot-ai-1kei.bolt.host)
 ## 🏆 Hackathon Highlights
 
 EduPilot-AI combines **Artificial Intelligence, Personalized Learning, Productivity, Exam Preparation, and Career Guidance** into one practical solution focused on real student needs.
